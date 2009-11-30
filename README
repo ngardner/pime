@@ -1,5 +1,6 @@
-JUIL - Jason's Ultimate Image Library for PHP
+PIME - PHP Image Manipulation Engine
 
-You must have the GD library installed to use JUIL.
+== What is PIME? ==
+PIME is an object oriented way to deal with images, whether it be simple resizing or complex effects. It is easily extensible via plugins.
 
-More to come!
+PIME depends heavily on the GD library. Be sure to install GD support.
